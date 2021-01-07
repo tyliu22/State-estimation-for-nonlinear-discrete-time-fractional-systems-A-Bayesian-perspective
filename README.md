@@ -1,5 +1,5 @@
 # State-estimation-for-nonlinear-discrete-time-fractional-systems-A-Bayesian-perspective
-Source code of paper State estimation for nonlinear discrete–time fractional systems A Bayesian perspective
+Source code of paper [State estimation for nonlinear discrete–time fractional systems A Bayesian perspective](https://www.sciencedirect.com/science/article/pii/S0165168419302452)
  
 ## STBL Alpha stable distributions folder
   The MATLAB function library “STBL” written by Mark Veillette is used. Source code can be downloaded in:
@@ -21,4 +21,14 @@ Source code of paper State estimation for nonlinear discrete–time fractional s
 ## SISO_NonGau_FPF folder
    FPF for a fractional non-Gaussian system
    
-   
+'''
+ @article{liu2019state,  
+  title={State estimation for nonlinear discrete--time fractional systems: A Bayesian perspective},  
+  author={Liu, Tianyu and Wei, Yiheng and Yin, Weidi and Wang, Yong and Liang, Qing},  
+  journal={Signal Processing},  
+  volume={165},  
+  pages={250--261},  
+  year={2019},  
+  publisher={Elsevier}  
+}  
+'''
