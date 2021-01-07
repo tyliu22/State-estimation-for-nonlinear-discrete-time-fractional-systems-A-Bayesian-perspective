@@ -21,7 +21,7 @@ Source code of paper [State estimation for nonlinear discrete–time fractional 
 ## SISO_NonGau_FPF folder
    FPF for a fractional non-Gaussian system
    
-'''
+```
  @article{liu2019state,  
   title={State estimation for nonlinear discrete--time fractional systems: A Bayesian perspective},  
   author={Liu, Tianyu and Wei, Yiheng and Yin, Weidi and Wang, Yong and Liang, Qing},  
@@ -31,4 +31,4 @@ Source code of paper [State estimation for nonlinear discrete–time fractional 
   year={2019},  
   publisher={Elsevier}  
 }  
-'''
+```
